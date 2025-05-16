@@ -1,1 +1,1 @@
-Kalkulator konversi suhu dalam bahasa Go
+Kalkulator konversi suhu dalam golang
